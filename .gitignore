@@ -1,0 +1,18 @@
+# C / C++
+*.exe
+*.out
+*.o
+*.obj
+output/
+
+# Java
+*.class
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
