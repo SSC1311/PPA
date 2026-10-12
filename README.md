@@ -1,4 +1,4 @@
-\# PPA: Programming Placement Activity
+# PPA: Programming Placement Activity
 
 
 
@@ -191,6 +191,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 |------|----------|-------|-------|
 
 | 2026-10-10 | C | Arrays and strings | `C\_Programming/...` |
+| 2026-10-12 | C | Addresses, 1D arrays, array-pointer relationship and pointer arithmetic | `C_Programming/Address.c`, `ArrayDemo1-5.c`, `ArrayPointer.c`, `ArrayPointerArithmetic.c` |
 
 
 
