@@ -95,6 +95,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | Date | Language | Topic | Files |
 |------|----------|-------|-------|
 | 2026-10-12 | C | Addresses, 1D arrays, array-pointer relationship and pointer arithmetic | `C_Programming/Address.c`, `ArrayDemo1-5.c`, `ArrayPointer.c`, `ArrayPointerArithmetic.c` |
+| 2026-10-15 | C | Functions, modifiers and pointer arithmetic | `C_Programming/FunctionDemo1-6.c`, `Modifier.c`, `PointerArithmetic1.c` |
 
 *A new row is added with each push.*
 
