@@ -99,6 +99,8 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-16 | C | Pointer arithmetic, pointer arrays and pointer basics | `C_Programming/PointerArithmetic2-5.c`, `PointerArray1.c`, `PointerDemo1-3.c` |
 | 2026-10-17 | C | Pointer demos, primitive types, sizeof and structures | `C_Programming/PointerDemo4.c`, `Primitive.c`, `Sizeof.c`, `StructDemo6-8.c`, `Struct_Demo1-2.c` |
 | 2026-10-18 | C | Structures and unions | `C_Programming/Struct_Demo3-5.c`, `StructureUnion1-5.c` |
+| 2026-10-19 | C | Structures and unions (memory layout) | `C_Programming/StructureUnion6-7.c` |
+| 2026-10-19 | C++ | First program, classes, access specifiers and constructors | `C++_Programming/First.cpp`, `classDemo1-2.cpp`, `AccessSpecifier_private.cpp`, `AccessSpecifier_public.cpp`, `ConstructorDemo1.cpp` |
 
 *A new row is added with each push.*
 
