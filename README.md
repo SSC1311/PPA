@@ -101,6 +101,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-18 | C | Structures and unions | `C_Programming/Struct_Demo3-5.c`, `StructureUnion1-5.c` |
 | 2026-10-19 | C | Structures and unions (memory layout) | `C_Programming/StructureUnion6-7.c` |
 | 2026-10-19 | C++ | First program, classes, access specifiers and constructors | `C++_Programming/First.cpp`, `classDemo1-2.cpp`, `AccessSpecifier_private.cpp`, `AccessSpecifier_public.cpp`, `ConstructorDemo1.cpp` |
+| 2026-10-21 | C++ | Constructors, encapsulation and inheritance | `C++_Programming/ConstructorDemo2-3.cpp`, `Encapsulation1-3.cpp`, `SingleLevel.cpp`, `SingleLevelX.cpp`, `MultiLevel.cpp` |
 
 *A new row is added with each push.*
 
