@@ -103,6 +103,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-19 | C++ | First program, classes, access specifiers and constructors | `C++_Programming/First.cpp`, `classDemo1-2.cpp`, `AccessSpecifier_private.cpp`, `AccessSpecifier_public.cpp`, `ConstructorDemo1.cpp` |
 | 2026-10-21 | C++ | Constructors, encapsulation and inheritance | `C++_Programming/ConstructorDemo2-3.cpp`, `Encapsulation1-3.cpp`, `SingleLevel.cpp`, `SingleLevelX.cpp`, `MultiLevel.cpp` |
 | 2026-10-22 | C++ | Multiple inheritance, OOP concepts, this pointer and pure virtual functions | `C++_Programming/Multiple.cpp`, `MultipleX.cpp`, `MultipleXX.cpp`, `OOP.cpp`, `OOPX.cpp`, `OOPXX.cpp`, `OOPX_This.cpp`, `PureVirtual.cpp` |
+| 2026-10-24 | C++ | Static members, virtual functions and runtime polymorphism | `C++_Programming/PureVirtualX.cpp`, `StaticDemo1-3.cpp`, `VirtualDemo1-4.cpp` |
 
 *A new row is added with each push.*
 
