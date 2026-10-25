@@ -104,6 +104,8 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-21 | C++ | Constructors, encapsulation and inheritance | `C++_Programming/ConstructorDemo2-3.cpp`, `Encapsulation1-3.cpp`, `SingleLevel.cpp`, `SingleLevelX.cpp`, `MultiLevel.cpp` |
 | 2026-10-22 | C++ | Multiple inheritance, OOP concepts, this pointer and pure virtual functions | `C++_Programming/Multiple.cpp`, `MultipleX.cpp`, `MultipleXX.cpp`, `OOP.cpp`, `OOPX.cpp`, `OOPXX.cpp`, `OOPX_This.cpp`, `PureVirtual.cpp` |
 | 2026-10-24 | C++ | Static members, virtual functions and runtime polymorphism | `C++_Programming/PureVirtualX.cpp`, `StaticDemo1-3.cpp`, `VirtualDemo1-4.cpp` |
+| 2026-10-25 | C++ | Polymorphism concepts and more virtual function programs | `C++_Programming/POP.cpp`, `POPX.cpp`, `POPXX.cpp`, `VirtualDemo5-6.cpp` |
+| 2026-10-25 | C | File handling (file I/O) | `C_Programming/File_IO/` |
 
 *A new row is added with each push.*
 
