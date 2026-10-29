@@ -107,6 +107,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-25 | C++ | Polymorphism concepts and more virtual function programs | `C++_Programming/POP.cpp`, `POPX.cpp`, `POPXX.cpp`, `VirtualDemo5-6.cpp` |
 | 2026-10-25 | C | File handling (file I/O) | `C_Programming/File_IO/` |
 | 2026-10-28 | Java | Core Java: loops, encapsulation, constructors, inheritance and abstraction | `Java_Programming/Addition.java`, `Iteration1-3.java`, `Encapsulation.java`, `Constructors_Demo.java`, `SingleLevel.java`, `AbstractDemo.java` |
+| 2026-10-29 | Java | Interfaces, packages and OOP concepts | `Java_Programming/InterfaceDemo.java`, `InterfaceDemoX-XXXXX.java`, `PackageDemo.java`, `OOPXX.java` |
 
 *A new row is added with each push.*
 
