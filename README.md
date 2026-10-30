@@ -108,6 +108,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-25 | C | File handling (file I/O) | `C_Programming/File_IO/` |
 | 2026-10-28 | Java | Core Java: loops, encapsulation, constructors, inheritance and abstraction | `Java_Programming/Addition.java`, `Iteration1-3.java`, `Encapsulation.java`, `Constructors_Demo.java`, `SingleLevel.java`, `AbstractDemo.java` |
 | 2026-10-29 | Java | Interfaces, packages and OOP concepts | `Java_Programming/InterfaceDemo.java`, `InterfaceDemoX-XXXXX.java`, `PackageDemo.java`, `OOPXX.java` |
+| 2026-10-30 | Java | Exception handling | `Java_Programming/ExceptionDemo1.java`, `ExceptionDemo1X.java`, `ExceptionDemo1XX.java`, `ExceptionDemo2.java`, `ExceptionDemo2X.java`, `ExceptionDemo3.java`, `ExceptionDemo3X.java`, `ExceptionDemo4.java` |
 
 *A new row is added with each push.*
 
