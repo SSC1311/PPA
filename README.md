@@ -111,6 +111,8 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-10-30 | Java | Exception handling | `Java_Programming/ExceptionDemo1.java`, `ExceptionDemo1X.java`, `ExceptionDemo1XX.java`, `ExceptionDemo2.java`, `ExceptionDemo2X.java`, `ExceptionDemo3.java`, `ExceptionDemo3X.java`, `ExceptionDemo4.java` |
 | 2026-10-31 | Java | Multithreading | `Java_Programming/ThreadDemo1-8.java` |
 | 2026-11-01 | Java | Multithreading and virtual method programs | `Java_Programming/ThreadDemo9.java`, `VirtualDemo6.java` |
+| 2026-11-02 | C++ | Namespaces | `C++_Programming/NamespaceDemo1-5.cpp` |
+| 2026-11-03 | C | Typedef and multi-file programs (headers and separate source files) | `C_Programming/TypedefDemo.c`, `C_Programming/MultiFile_Demo/` |
 
 *A new row is added with each push.*
 
