@@ -114,6 +114,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-11-02 | C++ | Namespaces | `C++_Programming/NamespaceDemo1-5.cpp` |
 | 2026-11-03 | C | Typedef and multi-file programs (headers and separate source files) | `C_Programming/TypedefDemo.c`, `C_Programming/MultiFile_Demo/` |
 | 2026-11-07 | Java | Object class methods: toString, equals, hashCode, clone and finalize | `Java_Programming/DemoToString*.java`, `DemoEquals*.java`, `DemoHashCode.java`, `DemoClone.java`, `DemoFinalize.java` |
+| 2026-11-08 | Java | GUI programming (AWT and Swing) and event handling | `Java_Programming/GUI1-6.java` |
 
 *A new row is added with each push.*
 
