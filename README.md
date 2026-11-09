@@ -64,24 +64,24 @@ Each program targets **one concept** and is named after it, so any file can be r
 Tracked openly so progress is easy to follow. Items are ticked once the code is in the repo.
 
 **C**
-- [ ] Arrays, strings and string functions
-- [ ] Pointers and pointer arithmetic
-- [ ] Dynamic memory allocation (1D, 2D)
-- [ ] Structures, unions and enums
-- [ ] File handling
+- [x] Arrays, strings and string functions
+- [x] Pointers and pointer arithmetic
+- [x] Dynamic memory allocation (1D, 2D)
+- [x] Structures, unions and enums
+- [x] File handling
 
 **C++**
-- [ ] Classes, constructors and destructors
-- [ ] Inheritance and polymorphism
-- [ ] Operator overloading
-- [ ] Templates and virtual functions
+- [x] Classes, constructors and destructors
+- [x] Inheritance and polymorphism
+- [x] Operator overloading
+- [x] Templates and virtual functions
 
 **Java**
-- [ ] OOP fundamentals and interfaces
+- [x] OOP fundamentals and interfaces
 - [ ] Collections framework
-- [ ] Exception handling
-- [ ] Multithreading
-- [ ] JDBC basics
+- [x] Exception handling
+- [x] Multithreading
+- [x] JDBC basics
 
 **Data Structures and Algorithms**
 - [ ] Linked lists, stacks and queues
@@ -115,6 +115,8 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-11-03 | C | Typedef and multi-file programs (headers and separate source files) | `C_Programming/TypedefDemo.c`, `C_Programming/MultiFile_Demo/` |
 | 2026-11-07 | Java | Object class methods: toString, equals, hashCode, clone and finalize | `Java_Programming/DemoToString*.java`, `DemoEquals*.java`, `DemoHashCode.java`, `DemoClone.java`, `DemoFinalize.java` |
 | 2026-11-08 | Java | GUI programming (AWT and Swing) and event handling | `Java_Programming/GUI1-6.java` |
+| 2026-11-09 | Java | Network programming: client-server chat with sockets | `Java_Programming/ChatClient.java`, `ChatClientX.java`, `ChatServer.java`, `ChatServerX.java` |
+| 2026-11-09 | Java | JDBC: database connectivity | `Java_Programming/MarvellousJDBC.java` |
 
 *A new row is added with each push.*
 
@@ -134,6 +136,7 @@ javac File.java && java File
 ```
 
 **Requirements:** GCC/G++ (C++17 support) and JDK 11 or later.
+**JDBC programs** also need the MySQL Connector/J jar, which is not included in this repo. Download it from the MySQL website and add it to the classpath.
 
 ---
 
