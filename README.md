@@ -83,10 +83,6 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 - [x] Multithreading
 - [x] JDBC basics
 
-**Data Structures and Algorithms**
-- [ ] Linked lists, stacks and queues
-- [ ] Sorting and searching
-- [ ] Trees and graphs (basics)
 
 ---
 
@@ -117,6 +113,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-11-08 | Java | GUI programming (AWT and Swing) and event handling | `Java_Programming/GUI1-6.java` |
 | 2026-11-09 | Java | Network programming: client-server chat with sockets | `Java_Programming/ChatClient.java`, `ChatClientX.java`, `ChatServer.java`, `ChatServerX.java` |
 | 2026-11-09 | Java | JDBC: database connectivity | `Java_Programming/MarvellousJDBC.java` |
+| 2026-11-10 | Java | Practice programs | `Java_Programming/LB.java` |
 
 *A new row is added with each push.*
 
