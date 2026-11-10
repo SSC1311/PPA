@@ -114,6 +114,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-11-09 | Java | Network programming: client-server chat with sockets | `Java_Programming/ChatClient.java`, `ChatClientX.java`, `ChatServer.java`, `ChatServerX.java` |
 | 2026-11-09 | Java | JDBC: database connectivity | `Java_Programming/MarvellousJDBC.java` |
 | 2026-11-10 | Java | Practice programs | `Java_Programming/LB.java` |
+| 2026-11-10 | Java | Practice programs | `Java_Programming/PPA.java` |
 
 *A new row is added with each push.*
 
