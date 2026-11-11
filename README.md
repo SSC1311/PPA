@@ -78,7 +78,6 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 
 **Java**
 - [x] OOP fundamentals and interfaces
-- [ ] Collections framework
 - [x] Exception handling
 - [x] Multithreading
 - [x] JDBC basics
@@ -115,6 +114,7 @@ Tracked openly so progress is easy to follow. Items are ticked once the code is 
 | 2026-11-09 | Java | JDBC: database connectivity | `Java_Programming/MarvellousJDBC.java` |
 | 2026-11-10 | Java | Practice programs | `Java_Programming/LB.java` |
 | 2026-11-10 | Java | Practice programs | `Java_Programming/PPA.java` |
+| 2026-11-11 | C, Java | Practice programs | `C_Programming/Ganesh.c`, `Java_Programming/Python.java` |
 
 *A new row is added with each push.*
 
